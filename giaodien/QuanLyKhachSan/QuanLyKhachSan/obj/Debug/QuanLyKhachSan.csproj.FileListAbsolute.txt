@@ -1,0 +1,17 @@
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhongForm.resources
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RoomRentVoucher.resources
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Asus\Documents\GitHub\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
